@@ -103,12 +103,12 @@ Style/CommentAnnotation:
     - OPTIMIZE
     - HACK
     - REVIEW
-Style/ConditionalAssignment:
-  EnforcedStyle: assign_to_condition
-  SupportedStyles:
-    - assign_to_condition
-    - assign_inside_condition
-  SingleLineConditionsOnly: true
+#Style/ConditionalAssignment:
+#  EnforcedStyle: assign_to_condition
+#  SupportedStyles:
+#    - assign_to_condition
+#    - assign_inside_condition
+#  SingleLineConditionsOnly: true
 Style/Copyright:
   Notice: '^Copyright (\(c\) )?2[0-9]{3} .+'
   AutocorrectNotice: ''
