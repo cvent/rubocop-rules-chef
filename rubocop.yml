@@ -73,7 +73,7 @@ Style/CaseIndentation:
   IndentOneStep: false
   IndentationWidth: ~
 Style/ClassAndModuleChildren:
-  EnforcedStyle: compact
+  EnforcedStyle: nested
   SupportedStyles:
     - nested
     - compact
